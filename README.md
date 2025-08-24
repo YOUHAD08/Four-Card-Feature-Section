@@ -37,22 +37,22 @@ Users should be able to:
 
 #### 🖥️ Desktop
 
-![Desktop](design\desktop-design.jpg)
+![Desktop](design/desktop-design.jpg)
 
 #### 📟 Tablet
 
-![Tablet](design\tablet-design.png)
+![Tablet](design/tablet-design.png)
 
 #### 📱 Mobile
 
-![Mobile](design\mobile-design.jpg)
+![Mobile](design/mobile-design.jpg)
 
 ---
 
 ### 🔗 Links
 
-- [👉 Frontend Mentor Solution URL](https://your-solution-url.com)
-- [🌍 Live Site URL](https://your-live-site-url.com)
+- [👉 Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/four-card-feature-section-328U0rwAJD)
+- [🌍 Live Site URL](https://youhad08.github.io/Four-Card-Feature-Section/)
 
 ---
 
