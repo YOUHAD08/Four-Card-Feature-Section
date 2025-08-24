@@ -108,3 +108,28 @@ body {
 .container .technology-content .row .col-3 .card-calculator {
   border-top: 5px solid var(--Blue);
 }
+
+@media (max-width: 900px) {
+  .container .technology-content .row {
+    grid-template-columns: 1fr;
+  }
+  .container {
+    padding: 4rem 2rem;
+  }
+}
+
+@media (max-width: 425px) {
+  .container .technology-content .technology-header h1,
+  .container .technology-content .technology-header h2 {
+    font-size: 1.5rem;
+  }
+  .container .technology-content .technology-header p {
+    font-size: 0.8rem;
+  }
+  .container .technology-content .row .col .card h3 {
+    font-size: 1.25rem;
+  }
+  .container .technology-content .row .col .card p {
+    font-size: 0.75rem;
+  }
+}
