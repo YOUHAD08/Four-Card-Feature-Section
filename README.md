@@ -70,17 +70,11 @@ Users should be able to:
 
 ### 📚 What I learned
 
-While working on this project, I reinforced my knowledge of **CSS Grid layouts** and **responsive design using media queries** qnd position relqtive qnd qbsolut .
+hile working on this project, I reinforced my knowledge of:
 
-Here’s a snippet I’m proud of:
-
-```css
-@media (max-width: 900px) {
-  .container .technology-content .row {
-    grid-template-columns: 1fr;
-  }
-}
-```
+- **CSS Grid layouts** for structuring the card layout
+- **Responsive design** using media queries to adapt the layout across devices
+- **Relative and absolute positioning** to place icons inside the cards effectively
 
 ---
 
